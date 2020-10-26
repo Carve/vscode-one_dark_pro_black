@@ -1,0 +1,21 @@
+{
+    "name": "one-dark-pro--black--bold",
+    "displayName": "One Dark Pro - Black - Bold",
+    "description": "One Dark Pro bold but with Blacks instead of Blues",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Pro - Black - Bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Pro - Black - Bold-color-theme.json"
+            }
+        ]
+    }
+}
